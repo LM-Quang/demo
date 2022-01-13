@@ -1,3 +1,4 @@
 # Demo
 
-My first repository
+Shortcut Key
+- cmd + k : open command palette
